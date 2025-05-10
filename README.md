@@ -7,8 +7,8 @@ Se identifican como tal, a aquellas palabras o frases que se leen igual de izqui
 
 ## Tecnología utilizada
 
-- Lenguaje Python
-- Las librerías estándares
+- Lenguaje Python.
+- Las librerías estándares.
 
 ## Instalación
 
