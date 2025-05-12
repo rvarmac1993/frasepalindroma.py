@@ -1,0 +1,10 @@
+name: Detección de fugas
+
+on: push
+
+jobs:
+  leak-check:
+    runs-on: ubuntu-latest
+    steps:
+      -uses: actions/checkout@v3
+      -uses: gitleaks/gitleaks-action@v2
